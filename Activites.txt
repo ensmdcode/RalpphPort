@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<head><title>Activities</title></head>
+<body style="margin: 0; height: 100%;background-image: url('int7.jpg');">
+<table border="1" width="100%">
+    
+<tr>
+<td colspan="3" align="center"><font color="#000000" size="6" face="Arial"> <b> Activities </b> </font> </a></td>
+</tr>
+
+    
+    <tr>
+      <td align="center">
+        <img src="act1.jfif" alt="Image 1" width="400" height="300">
+        <p>This was during the Historical Icon event of the AP Club. </p>
+      </td>
+      <td align="center">
+        <img src="act2.jpg" alt="Image 2" width="400" height="300">
+        <p>This was the Women's Volleyball Team of the Magindara Club during the Intramurals.</p>
+      </td>
+      <td align="center">
+        <img src="act3.jpg" alt="Image 3" width="400" height="300">
+        <p>This is 9-Family practicing for Vpop in the field.</p>
+      </td>
+    </tr>
+
+   
+    <tr>
+      <td align="center">
+        <img src="act4.jpg" alt="Image 4" width="400" height="300">
+        <p>This is me and my friends during the entrepenurship day of the senior high students.</p>
+      </td>
+      <td align="center">
+        <img src="act5.jpg" alt="Image 5" width="400" height="300">
+        <p>This was the class making the costume for our historical icon.</p>
+      </td>
+      <td align="center">
+        <img src="act6.jpg" alt="Image 6" width="400" height="300">
+        <p>This is our section after our final game in the volleyball PE peroformance task.</p>
+      </td>
+    </tr>
+  </table>
+
+<table border="1" align="center">
+    <tr>
+      <td align="center">
+        <video width="420" height="340" controls>
+          <source src="vid1.mp4" type="video/mp4"
+        </video>
+<p>This is our section resting on the gym floor after Vpop practice.</p>
+      </td>
+
+      <td align="center">
+        <video width="420" height="340" controls>
+          <source src="vid2.mp4" type="video/mp4">
+        </video>
+<p>This is the red and blue team fighting against each other during the cluster meet.</p>
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>

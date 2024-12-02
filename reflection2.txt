@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head><title>Reflection</title></head>
+<body style="margin: 0; height: 100%;background-image: url('int7.jpg');">
+
+<h1 align="center">Reflection</h1>
+
+    <p align="center" style="font-size: 26px;">
+	I have learned a lot of lessons this quarter especially the use of CSS in websites. From what i've been doing I find that CSS is a much shorter and simpler way in doing websites. Although some of the new concepts are a bit hard to understand, it is still fun using them because it challenges me. I also enjoyed mixing and adding the concepts from the first quarter to the second quarter. Thank You very much for spending time reading the contents of my E-Portfolio!
+    </p>
+
+<table align="center" border="1">
+        <tr>
+            <td>
+                <img src="meme1.jpg" alt="Image 1" width="200" height="300">
+            </td>
+            <td>
+                <img src="meme2.jpg" alt="Image 2" width="200" height="300">
+            </td>
+            <td>
+                <img src="meme3.jpg" alt="Image 3" width="200" height="300">
+            </td>
+        </tr>
+    </table>
+
+	<audio controls>
+        <source src="end.aac" type="audio/mp3">
+    </audio>
+
+</body>
+</html>
